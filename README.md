@@ -1,5 +1,9 @@
 # Logistics Performance Analysis
 
+## Dashboard Preview
+
+![Logistics Performance Dashboard](Dashboard.png)
+
 ## Project Overview
 
 This project analyzes logistics performance using SQL and Excel. The goal is to compare shipping carriers based on delivery costs, on-time delivery rates, and average delivery times.
